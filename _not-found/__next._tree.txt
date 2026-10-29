@@ -1,0 +1,5 @@
+:HL["/freightlines-rebuild/_next/static/chunks/1x9cciv25-7zq.css","style"]
+:HL["http://127.0.0.1:8000/storage/settings/logo.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"s57YSAFjMVzPOU2HqP-ID","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

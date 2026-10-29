@@ -1,0 +1,9 @@
+:HL["/freightlines-rebuild/_next/static/chunks/1x9cciv25-7zq.css","style"]
+:HL["/freightlines-rebuild/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/freightlines-rebuild/_next/static/media/c6a5c2fdc12da45c-s.p.17-aodiw50953.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["http://127.0.0.1:8000/storage/settings/logo.webp","image"]
+:HL["/images/extra/sea-freight-hero.webp","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"sea-freight","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"service","h":96,"c":"$Q2"}]]
+0:{"b":"s57YSAFjMVzPOU2HqP-ID","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
